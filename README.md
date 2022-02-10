@@ -1,6 +1,6 @@
 ## Hey, I'm Vincent!  👋
 
-I am currently a student at the University of Luebeck, studying robotics and autonomous systems.
+I'm currently studying robotics and autonomous systems at the University of Luebeck.
 
 - 🌱 Looking to learn ROS
 - 🔭 I’m currently working on projects for my studies

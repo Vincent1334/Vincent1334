@@ -11,4 +11,4 @@ I'm currently studying robotics and autonomous systems at the University of Lueb
 
 ## GitHub stats 📊
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincent1334)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github.com/Vincent1334/ReadMe_Stats/blob/master/generated/languages.svg)
+
